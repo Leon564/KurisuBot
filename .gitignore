@@ -1,0 +1,4 @@
+node_modules/
+config/auth_info_multi.json
+.env
+qrcode.png

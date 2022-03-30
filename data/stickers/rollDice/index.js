@@ -1,0 +1,1 @@
+exports.rollDice=require('./roll')
